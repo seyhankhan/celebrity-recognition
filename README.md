@@ -43,10 +43,6 @@ These instructions will get you a copy of the project up and running on your loc
   * 3 = FisherFace Recognizer
 
 
-## Author
-
-* **Seyhan Van Khan**
-
 ## Acknowledgments
 
 * [Google Images Download](https://github.com/hardikvasa/google-images-download)
