@@ -1,7 +1,6 @@
 ######### Seyhan Van Khan
-######### Facial Recognition
-######### Explore using 3rd party libraries, specifically OpenCV, to experiment with your own creative projects
-######### October 2018
+######### Celebrity Facial Recognition
+######### Tells you who a given picture is of, given several possible famous people's name, with facial recognition & google images
 ######### Python 2.7
 
 ################################### CONSTANTS ##################################
