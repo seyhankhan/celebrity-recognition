@@ -16,7 +16,7 @@ Using facial recognition & Google Images, it tells you who it is
 These instructions will get you a copy of the project up and running on your local machine for usage.
 
 ### Installing
-- **[Python 2.7]**(https://www.python.org/download/releases/2.7/)
+- **[Python 2.7](https://www.python.org/download/releases/2.7/)**
 - [os](https://docs.python.org/3/library/os.html)
 - [cv2](https://opencv.org/)
 - [numpy](https://www.scipy.org/install.html)
