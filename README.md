@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [cv2](https://opencv.org/)
 - [numpy](https://www.scipy.org/install.html)
 - [google_images_download](https://github.com/hardikvasa/google-images-download)
-  * `$ pip install google_images_download`
+  * ```$ pip install google_images_download```
 
 
 ### Running the program
