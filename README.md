@@ -17,7 +17,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 - **[Python 2.7](https://www.python.org/download/releases/2.7/)**
-- [os](https://docs.python.org/3/library/os.html)
 - [cv2](https://opencv.org/)
 - [numpy](https://www.scipy.org/install.html)
 - [google_images_download](https://github.com/hardikvasa/google-images-download)
