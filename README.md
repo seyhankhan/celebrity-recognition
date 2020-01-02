@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
   - `training-data`
 * Place your mystery face image into `your-picture` folder.
 * Execute `python main.py PIC_FILE_NAME` (**Python 2.7**), where PIC_FILE_NAME is your mystery image's filename
-* eg: `python main.py person1.jpg`
+  * eg: `python main.py person1.jpg`
 
 ### Constants
 - `string PIC_FILE_NAME` = Your picture's file name
