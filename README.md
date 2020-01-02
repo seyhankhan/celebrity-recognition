@@ -24,8 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Running the program
-* Create 2 folders
-  - `your-picture`
+* Create a folder
   - `training-data`
 * Download and place your mystery face image into `your-picture` folder.
 * Go to the CONSTANTS section of `main.py` and rename `PIC_FILE_NAME` to your picture's.
