@@ -31,7 +31,6 @@ These instructions will get you a copy of the project up and running on your loc
   * eg: `python main.py person1.jpg`
 
 ### Constants
-- `string PIC_FILE_NAME` = Your picture's file name
 - `int NUM_IMAGES` = Number of images downloaded per person
 - `string CASCADE_NAME` = Face cascade used to detect a human face
 - `int FACE_RECOGNISER_FUNC` = Choice of Face Recogniser Function:
