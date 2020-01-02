@@ -1,13 +1,17 @@
 ######### Seyhan Van Khan
-######### Celebrity Facial Recognition
-######### Tells you who a given picture is of, given several possible famous people's name, with facial recognition & google images
+######### Facial Recognition
+######### Explore using 3rd party libraries, specifically OpenCV, to experiment with your own creative projects
+######### October 2018
 ######### Python 2.7
 
 ################################### CONSTANTS ##################################
 
-
+from sys import argv
 # Rename this to your picture's file name
-PIC_FILE_NAME = "unknownperson.jpg"
+if len(argv) != 2:
+    print("Format: python main.py PIC_FILE_NAME")
+    exit(1)
+PIC_FILE_NAME = argv[1]
 
 # Number of pictures downloaded of each person
 NUM_IMAGES = 20
@@ -109,4 +113,4 @@ cv2.destroyAllWindows()
 cv2.waitKey(1)
 cv2.destroyAllWindows()
 
-################# www.github.com/seyhanvankhan/celebrity-recog #################
+################# www.github.com/seyhanvankhan/celebrity-recognition #################
